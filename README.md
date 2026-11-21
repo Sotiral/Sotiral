@@ -28,7 +28,7 @@ Backend mostly, servers, automation.
 
 **Tools:** Git · VS Code · Neovim
 
-**Backend:** i cant remember 😭💔
+**Backend:** i cant remember 😭💔, sum like FastAPI and Postgre
 
 ---
 
@@ -40,7 +40,7 @@ AI assisted marketplace listing optimization, image processing and multilingual 
 
 **Verdict** `Luau` `Roblox Studio`
 
-Multiplayer horror game featuring round based gameplay, combat systems and persistent progression (Flee the facility style).
+Multiplayer horror game featuring round based gameplay, combat systems and persis *burp...i ate the rest*
 
 ---
 
