@@ -1,56 +1,50 @@
- <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,100:18243a&height=125&section=header&text=SOTIRAL&fontSize=45&fontColor=e5e7eb&fontAlignY=50&desc=SOFTWARE%20DEVELOPER%20%2F%20GREECE&descAlignY=78&descSize=12&descColor=94a3b8" width="100%" alt="Sotiral header"/>
-
-</div>
-
-### Sotiris Tzanakis
+### Sotiral
 
 Python, C++ and Luau developer based in Greece.
 
-Backend development, Linux, game development and self-hosted infrastructure.
+Backend mostly, servers, automation.
 
 ---
 
-### 01 / Languages
+### Languages
 
 | Language | Level |
 |:---|:---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="19" alt="Python"/> **Python** | Advanced |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="19" alt="Lua"/> **Lua / Luau** | Advanced |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="19" alt="C++"/> **C++** | Intermediate |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="19" alt="C"/> **C** | Basic |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="19" alt="C#"/> **C#** | Basic |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="19" alt="Java"/> **Java** | Basic |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="19" alt="Python"/>  **Python** | Advanced |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="19" alt="Lua"/>  **Lua / Luau** | Advanced |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="19" alt="C++"/>  **C++** | Intermediate |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="19" alt="C"/>  **C** | Basic |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="19" alt="C#"/>  **C#** | Basic |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="19" alt="Java"/>  **Java** | Basic |
 
-### 02 / Environment
+### Environment
 
 | Technology | Level |
 |:---|:---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="19" alt="Linux"/> **Linux** | Intermediate |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="19" alt="Docker"/> **Docker** | Basic |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="19" alt="Linux"/>  **Linux** | Intermediate |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="19" alt="Docker"/>  **Docker** | Basic |
 
 **OS:** Arch Linux · Ubuntu Server · Windows
 
-**Tools:** Git · VS Code · Neovim · CMake · GCC · Clang · GDB
+**Tools:** Git · VS Code · Neovim
 
-**Backend:** FastAPI · PostgreSQL · Caddy
+**Backend:** i cant remember 😭💔
 
 ---
 
-### 03 / Projects
+### Projects
 
 **Aggelia.help** `Python` `FastAPI` `PostgreSQL`
 
-AI-assisted marketplace listing optimization, image processing and multilingual descriptions.
+AI assisted marketplace listing optimization, image processing and multilingual descriptions.
 
 **Verdict** `Luau` `Roblox Studio`
 
-Multiplayer horror game featuring round-based gameplay, combat systems and persistent progression.
+Multiplayer horror game featuring round based gameplay, combat systems and persistent progression (Flee the facility style).
 
 ---
 
-### 04 / Activity
+### Activity
 
 <div align="center">
 
@@ -60,7 +54,7 @@ Multiplayer horror game featuring round-based gameplay, combat systems and persi
 
 ---
 
-### 05 / Elsewhere
+### Please follow those 🥹
 
 <a href="https://www.instagram.com/sssotiral/"><img src="https://img.shields.io/badge/Instagram-sssotiral-171717?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://www.tiktok.com/@ssotiral"><img src="https://img.shields.io/badge/TikTok-ssotiral-171717?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"/></a>
