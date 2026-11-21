@@ -1,84 +1,68 @@
-# Sotiris Tzanakis
+ <div align="center">
 
-**Software Developer | Greece 🇬🇷**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,100:18243a&height=125&section=header&text=SOTIRAL&fontSize=45&fontColor=e5e7eb&fontAlignY=50&desc=SOFTWARE%20DEVELOPER%20%2F%20GREECE&descAlignY=78&descSize=12&descColor=94a3b8" width="100%" alt="Sotiral header"/>
 
-I'm Sotiris, also known as **Sotiral**. I mainly work with Python, C++, and Lua, with an interest in backend development, Linux, automation, and game development.
+</div>
 
-Most of my experience comes from working on my own projects, setting up servers, and figuring things out along the way.
+### Sotiris Tzanakis
 
-## Languages & Technologies
+Python, C++ and Luau developer based in Greece.
 
-### Programming Languages
+Backend development, Linux, game development and self-hosted infrastructure.
 
-| Language | Proficiency | Experience |
-|---|---|---|
-| 🐍 Python | Advanced | Backend development, automation, APIs |
-| 🌙 Lua / Luau | Advanced | Roblox scripting, game systems |
-| ⚙️ C++ | Intermediate | Systems programming, performance |
-| 🔷 C | Basic | Low-level programming fundamentals |
-| 🟣 C# | Basic | General programming |
-| ☕ Java | Basic | Object-oriented programming |
+---
 
-### Systems & Tools
+### 01 / Languages
 
-| Technology | Proficiency |
-|---|---|
-| 🐧 Linux | Intermediate |
-| 🐳 Docker / Docker Compose | Basic |
-| 🗄️ PostgreSQL | Intermediate |
-| 🌐 FastAPI | Intermediate |
-| 🔧 Git / GitHub | Intermediate |
-| 🖥️ Bash / Shell | Intermediate |
-| 🌍 Networking & Server Administration | Intermediate |
+| Language | Level |
+|:---|:---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="19" alt="Python"/> **Python** | Advanced |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="19" alt="Lua"/> **Lua / Luau** | Advanced |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="19" alt="C++"/> **C++** | Intermediate |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="19" alt="C"/> **C** | Basic |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="19" alt="C#"/> **C#** | Basic |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="19" alt="Java"/> **Java** | Basic |
 
-### Development Environment
+### 02 / Environment
 
-- **Operating systems:** Arch Linux, Windows, Ubuntu Server
-- **Editors:** Visual Studio Code, Neovim
-- **C++ toolchain:** GCC, Clang, CMake, Ninja, GDB
-- **Backend:** Python, FastAPI, PostgreSQL
-- **Infrastructure:** Docker, Caddy, Linux VPS
-- **Game development:** Roblox Studio, Luau
+| Technology | Level |
+|:---|:---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="19" alt="Linux"/> **Linux** | Intermediate |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="19" alt="Docker"/> **Docker** | Basic |
 
-## Projects
+**OS:** Arch Linux · Ubuntu Server · Windows
 
-### [Aggelia.help](https://aggelia.help)
+**Tools:** Git · VS Code · Neovim · CMake · GCC · Clang · GDB
 
-A web application for improving online marketplace listings using AI.
+**Backend:** FastAPI · PostgreSQL · Caddy
 
-**Stack:** Python, FastAPI, PostgreSQL, Docker, React
+---
 
-- AI-generated listing descriptions
-- Image editing and enhancement
-- Multilingual listing support
-- Google authentication and account management
-- Background job processing
-- Docker-based deployment on a Linux VPS
+### 03 / Projects
 
-### Verdict
+**Aggelia.help** `Python` `FastAPI` `PostgreSQL`
 
-A multiplayer horror game developed on Roblox.
+AI-assisted marketplace listing optimization, image processing and multilingual descriptions.
 
-**Stack:** Luau, Roblox Studio
+**Verdict** `Luau` `Roblox Studio`
 
-- Round-based multiplayer gameplay
-- Different player roles and abilities
-- Combat and inventory systems
-- Interactive objectives
-- Persistent player data and leaderboards
+Multiplayer horror game featuring round-based gameplay, combat systems and persistent progression.
 
-## GitHub Statistics
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sotiral&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+### 04 / Activity
 
-## Currently Learning
+<div align="center">
 
-- More advanced C++ and systems programming
-- Linux internals and system administration
-- Software architecture and backend optimization
-- Networking and security fundamentals
+<img src="https://github-readme-stats.vercel.app/api?username=Sotiral&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=93c5fd&text_color=cbd5e1&icon_color=60a5fa" alt="GitHub statistics"/>
 
-## Links
+</div>
 
-- **Website:** [aggelia.help](https://aggelia.help)
-- **GitHub:** [@Sotiral](https://github.com/Sotiral)
+---
+
+### 05 / Elsewhere
+
+<a href="https://www.instagram.com/sssotiral/"><img src="https://img.shields.io/badge/Instagram-sssotiral-171717?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.tiktok.com/@ssotiral"><img src="https://img.shields.io/badge/TikTok-ssotiral-171717?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+<a href="https://github.com/Sotiral"><img src="https://img.shields.io/badge/GitHub-Sotiral-171717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+
