@@ -1,12 +1,8 @@
-### Sotiral
-
-Python, C++ and Luau developer based in Greece.
-
-Backend mostly, servers, automation.
+## Python, C++ and Luau developer based in Greece.
 
 ---
 
-### Languages
+### Knowledge
 
 | Language | Level |
 |:---|:---|
@@ -16,8 +12,6 @@ Backend mostly, servers, automation.
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="19" alt="C"/>  **C** | Basic |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="19" alt="C#"/>  **C#** | Basic |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="19" alt="Java"/>  **Java** | Basic |
-
-### Environment
 
 | Technology | Level |
 |:---|:---|
@@ -36,7 +30,7 @@ Backend mostly, servers, automation.
 
 **Aggelia.help** `Python` `FastAPI` `PostgreSQL`
 
-AI assisted marketplace listing optimization, image processing and multilingual descriptions.
+AI assisted marketplace listing optimization, image processing and multilingual descriptions. Sadly couldn't actually profit out of it due to business restrictions.
 
 **Verdict** `Luau` `Roblox Studio`
 
