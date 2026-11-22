@@ -36,7 +36,14 @@ Multiplayer horror game featuring round based gameplay, combat systems and persi
 
 ---
 
+### Activity
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sotiral&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=93c5fd&text_color=cbd5e1&icon_color=60a5fa&cache_seconds=21600" alt="GitHub statistics"/>
+
+</div>
+  
 ---
 
 ### Please follow those 🥹
