@@ -2,7 +2,7 @@
 
 ### Knowledge
 
-| Language | Level |
+| Thing | Level |
 |:---|:---|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="19" alt="Python"/>  **Python** | Advanced |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="19" alt="Lua"/>  **Lua / Luau** | Advanced |
@@ -10,17 +10,11 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="19" alt="C"/>  **C** | Basic |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="19" alt="C#"/>  **C#** | Basic |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="19" alt="Java"/>  **Java** | Basic |
-
-| Technology | Level |
-|:---|:---|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="19" alt="Linux"/>  **Linux** | Intermediate |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="19" alt="Docker"/>  **Docker** | Basic |
 
-**OS:** Arch Linux · Ubuntu Server · Windows
 
-**Tools:** Git · VS Code · Neovim
-
-**Backend:** i cant remember 😭💔, sum like FastAPI and Postgre
+**Backend:** i cant remember 😭💔sum like FastAPI and Postgre
 
 ---
 
@@ -34,16 +28,6 @@ AI assisted marketplace listing optimization, image processing and multilingual 
 
 Multiplayer horror game featuring round based gameplay, combat systems and persis *burp...i ate the rest*
 
----
-
-### Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sotiral&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=93c5fd&text_color=cbd5e1&icon_color=60a5fa&cache_seconds=21600" alt="GitHub statistics"/>
-
-</div>
-  
 ---
 
 ### Please follow those 🥹
