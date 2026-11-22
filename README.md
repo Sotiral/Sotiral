@@ -1,7 +1,5 @@
 ## Python, C++ and Luau developer based in Greece.
 
----
-
 ### Knowledge
 
 | Language | Level |
